@@ -1,0 +1,43 @@
+Request URL: http://sc.hkexnews.hk/TuniS/www.hkexnews.hk/sdw/search/mutualmarket_c.aspx?t=sh
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 202.162.185.5:80
+Referrer Policy: no-referrer-when-downgrade
+Access-Control-Allow-Methods: POST, GET
+Access-Control-Allow-Origin: *
+Cache-Control: private
+Connection: close
+Content-Type: text/html; charset=utf-8
+Date: Wed, 01 Aug 2018 07:01:11 GMT
+Set-Cookie: TS0161f2e5=017038eb49bc8ff06d3bae603a369d3bc3c4a1ffd00d487ce293c649fad95bf852badf54f6; Domain=sc.hkexnews.hk; Path=/; HttpOnly
+Set-Cookie: kanhanBase=sc.hkexnews.hk/TuniS/,www.hkexnews.hk; path=/
+Set-Cookie: TS01e99ba5=0141259276fdc2967d22cb4a3d69a566c64285a757cefe8aeb6ffcca2af474cce67d8f100652865bb4c5fd8dce291b566bfa46d7ab; Path=/; HTTPOnly
+Set-Cookie: TS01504d45=01412592764e37943781964302f095c5a0f136e1f2f017b8db65e87a0bd650f5d494d2d9807336ada528852cae4fa990823362dcc6; path=/; domain=sc.hkexnews.hk; HTTPonly
+Transfer-Encoding: chunked
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 1669
+Content-Type: application/x-www-form-urlencoded
+Cookie: kanhanBase=sc.hkexnews.hk/TuniS/,www.hkexnews.hk; TS01e99ba5=017038eb494dde53fa578eea8681f58aa393cd8160d461214ff1458864370349fd661979dcfc1d37229646e08b75cd97362049449b; TS0161f2e5=0141259276bd6e0764704d66bb4052e91af3c924d165eeecc7fa554c0b97adc930a8b14888; TS01504d45=017038eb49d543b4e781e404e49afe7d6e5a1b48763215b13fff45eb41b91d778c7ab9c4a878c9106c3ab3c324a90f87698c7397d1
+Host: sc.hkexnews.hk
+Origin: http://sc.hkexnews.hk
+Referer: http://sc.hkexnews.hk/TuniS/www.hkexnews.hk/sdw/search/mutualmarket_c.aspx?t=sh
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+t: sh
+__VIEWSTATE: X2XX1UPK+ze/Pr+YEYvf2blh7X7nAFneGcDi5Io7mvJBPnXmIoo0KWbrIBT03n02TlujkwGMqpLmnwhkAri+FKIN/vXevxN1xHgWWnbJI0Ei9mxSh24UtoluSrLAEWMhq52pqJoUC048C2NSAqX/nJCRrnv/HyPa0tzNP7JQIicKBWDPGWl71zeaWXpr2MGd3slKqQ==
+__VIEWSTATEGENERATOR: EC4ACD6F
+__EVENTVALIDATION: IRUBPRw/u1/2ziGaJ+62pA9AT11lhu+8Jo8Kkn0M/HVu9B/Z1ufP+RySSnt6kgyuN2uOV3It4qofW6UmOPcfWoy1A39o2KxO7xVpIVzoUyFvojKFgrUlLPimHdOUXdfXJWn2XuX+WxTceh1kNNeWl1c0TMTzgzYxPV1Ue5U/rUYa5jZGOafXlo1AxCbor0kYhjTtDBHR/fEZK9sPytQddgtyQDwUQ4V9IUCPVCKaWyAty647VaQ23zbslmXopVzTHu2gmB7ohBZxE8sPeWpLEwk8iQDm0SPmoEQwoXiUQ8Wb/8K6FZPZeSPP4bvFHwugOAh/N41gqywdZ9GLciatVfpgYhVZpsgyPHULfZPDqrjoLGA798MrJvieEdIcl/ja7meq8HEUQSvwNocjKBcxCUB/A60I52LKe0oQruyp6DxEPheB6p9gtFA7zBSJgMMRP5qGpjbvVEFq2JtjYFRotoM6L3o/8q7mgdb5cZyJiWwbMTpN+uv36J7OLFMiAgEajNs24UZ03lR8w9+6nLBXi5ewvp2NHVjAE/Qy4peElQ6hK1+ZeH6WjIvdktqi4aB020YIb0uNAUFsGc6YOf3VVtziXanYt35FX1Tm/D6aCGjnJdMb2v0p8EPIHkMk/bYAAhN7goAp1qQIi+RX+E7jQ9I3QKLvO/OKmL2IQ8hXfufbDEh8vmHyrSFA6xtDRuoPquuKr9ng+KmUUbNIoTwbsj440Z3ZW5gXTESD5bI1nST5+PYlcLqSk5f3IYOjAot8dZhpuqUtHoaFjU+d4YMlLHwFI3N5/qXl9DgfEOpaWm9Tg9SltxmgY6vGwu3+SBxEPL1ub2qfWayMKUziQrK8Onf91lFsbpw7ggr6TpSwB3IH0vivKKKcm17QtU8fZ9ZISpXjd3BucH0Mubr13pq0i01mtZ0SOa0rRC73zgaLpHzHY9XTp3CKpXrusjvJK8Waoa0Ky03R1PTXnEaKu0s7BEA9kPmZttiBT295c7Uxw6iRIQCMyt/rUKV9igI0zGGhdr+WTSmAJG5MGIffMD895YK226lMecPHrpj2gWk+7CopGIDShd+Hk+Q3eg23ky+uxEnsRFztEyE9o9Pj38fl6ArMl7XOqY6VC7So7X76XnKw5IE+tBADKnniwAqhl0WmGTzxAmksw8jt1KzDUtvE+R8IonM=
+today: 20180801
+sortBy: 
+alertMsg: 
+ddlShareholdingDay: 30
+ddlShareholdingMonth: 07
+ddlShareholdingYear: 2018
+btnSearch.x: 26
+btnSearch.y: 10
