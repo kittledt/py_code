@@ -28,5 +28,6 @@ urlpatterns = [
     #url(r'^$',view.newhello)
     # favicon.cio
     url(r'^favicon\.ico$', RedirectView.as_view(url=r'static/images/favicon.ico'))
+    
 ]
 

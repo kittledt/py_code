@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'warehouse',
     'cmdb',
+    'login',
 ]
 
 MIDDLEWARE = [
@@ -56,7 +57,7 @@ ROOT_URLCONF = 'helloscrapy.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR,"templates")],       # MVC , 
+        'DIRS': [os.path.join(BASE_DIR,'templates')],       # MVC , 
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -78,7 +79,7 @@ WSGI_APPLICATION = 'helloscrapy.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'awesome',
+        'NAME': 'warehouse',
         'USER': 'root',
         'PASSWORD': 'dt4402375',
         'HOST': '',
@@ -126,4 +127,4 @@ USE_TZ = True
 #STATIC_URL = '/static/'
 # Static files (CSS, JavaScript, Images)
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')] #将静态文件的URL设为BASE_DIR/static。并将此路径加入PATH。

@@ -8,4 +8,4 @@ def index(request):
     
     #context          = {}
     #context['hello'] = 'Hello World!'       #context: dictory ,  key = hello = "{{ hello }}" in template , value = 'Hello World!'
-    return render(request, 'hello.html')       # render use 'context(dictory)' as param
+    return render(request, 'index.html')       # render use 'context(dictory)' as param

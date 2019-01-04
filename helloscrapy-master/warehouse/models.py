@@ -8,4 +8,4 @@ class TestScrapy(models.Model):
 
     class Meta:
         app_label = 'warehouse'
-        db_table = 'test_scrapy'
+        db_table = 'test_scrapy'    # table name in Database
